@@ -1,0 +1,16 @@
+.progressive-item {
+  background-color: #f8f9fa;
+  border: 1px solid #dee2e6;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.progressive-item a {
+  color: #007bff;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.progressive-item a:hover {
+  color: #0056b3;
+}
